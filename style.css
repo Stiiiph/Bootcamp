@@ -2,7 +2,7 @@
     margin-top:0.5em;
     content: "";
     float:left;
-    border:1.5em solid #fff;
+    border:1.5em solid #9683ec;
   }
   
   .ribbon:after {
@@ -14,7 +14,7 @@
   }
 
   .ribbon a:link, .ribbon a:visited { 
-    color:#000;
+    color:#fff;
     text-decoration:none;
     float:left;
     height:3.5em;
@@ -22,7 +22,7 @@
   }
 
   .ribbon span {
-    background:#fff;
+    background:#9683ec;
     display:inline-block;
     line-height:3em;
     padding:0 1em;
@@ -32,7 +32,7 @@
   }
   
   .ribbon a:hover span {
-    background:#FFD204;
+    background:#7f00ff;
     margin-top:0;
   }
   
@@ -41,8 +41,8 @@
     position:absolute;
     top:3em;
     left:0;
-    border-right:0.5em solid #9B8651;
-    border-bottom:0.5em solid #fff;
+    border-right:0.5em solid #7f00ff;
+    border-bottom:0.5em solid #9683ec;
   }
   
   .ribbon span:after {
@@ -51,5 +51,5 @@
     top:3em;
     right:0;
     border-left:0.5em solid #9B8651;
-    border-bottom:0.5em solid #fff;
+    border-bottom:0.5em solid #9683ec;
   }
