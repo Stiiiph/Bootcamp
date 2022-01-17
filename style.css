@@ -21,10 +21,15 @@ html, body {
                       background-position: 0% 50%;
                   }
               }
+/* CSS pour aligner le texte*/
+body {
+    margin:auto;
+    text-align:center;	
+            }
 
-              body {
-				margin:auto;
-				text-align:center;
+h1 {
+    margin:auto;
+    text-align:center;	
             }
 
 /* CSS pour le ruban*/
