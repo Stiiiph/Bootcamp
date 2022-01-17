@@ -58,4 +58,6 @@
     /* Basic CSS reset */
     margin:0; 
     padding:0;
+    margin:auto; 
+    text-align:center;
 }
