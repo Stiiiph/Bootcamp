@@ -26,10 +26,8 @@ body {
     margin:auto;
     text-align:center;	
             }
-
+/* CSS pour perso h1*/
 h1 {
     text-align:center;	
+    font-family: 'Balsamiq Sans', cursive;
             }
-
-/* CSS pour police H1*/
-  font-family: 'Balsamiq Sans', cursive;
