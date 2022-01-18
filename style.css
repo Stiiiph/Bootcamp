@@ -29,6 +29,7 @@ h1, h2 {
               }
             .menu a:hover{
                 border-top:3px solid white;
+                border-bottom: 3px solid purple;
                 color:white;
               }
               
